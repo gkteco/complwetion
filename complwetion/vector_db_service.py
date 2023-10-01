@@ -86,7 +86,7 @@ class VectorDBService:
                 model='gpt-4',
                 messages=messages
             )
-            print(chat_completion)
+            return chat_completion
 
         except Exception as e:
             print(e)

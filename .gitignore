@@ -1,5 +1,7 @@
 /venv
 /text
 /.idea
-
+/dist
+/complwetion.egg-info
+/build
 main.py
