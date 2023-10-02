@@ -10,8 +10,9 @@ Complwetion is a wrapper around an LLM provider and a Vector DB with common util
 - connecting to a vector db
 - connecting to a LLM provider
 
+The short term goal of complwetion is to provide an api to do auto-RAG. 1) Wire up a db, 2) Create an index, 3) encode and upsert some information, and 4) call a chat completion api with augmented context
 
-The goal is to provide an elegant interface to build LLM powered backends. Here's how to use complwetion
+Creating a library for building high performing auto-RAG chat completion backends is the near-longterm goal.
 
 
 ```python
