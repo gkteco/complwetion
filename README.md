@@ -1,5 +1,5 @@
 # complwetion
-[![pypi](https://img.shields.io/pypi/v/complwetion)]()
+[![pypi](https://img.shields.io/pypi/v/complwetion)](https://pypi.org/project/complwetion/)
 
 
 Complwetion is a wrapper around an LLM provider and a Vector DB with common utilities like:
