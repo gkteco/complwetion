@@ -14,6 +14,7 @@ The short term goal of complwetion is to provide an api to do auto-RAG. 1) Wire 
 
 Creating a library for building high performing auto-RAG chat completion backends is the near-longterm goal.
 
+## Quickstart
 
 ```python
 pip install complwetion
